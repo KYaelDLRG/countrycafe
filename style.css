@@ -38,6 +38,7 @@ body {
   background: var(--bg-color);
   background-image: url('Katys.svg');
   background-position: center center;
+  background-repeat: space;
   opacity: 75;
 }
 #darkmode {
