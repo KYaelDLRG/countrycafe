@@ -36,7 +36,7 @@ body.active {/*Color de texto Modo */
 body {
   color: var(--text-color);
   background: var(--bg-color);
-  background-image: url('images/Katys.png');
+  background-image: url('images/Katys.svg');
   background-position: center center;
   opacity: 75;
 }
